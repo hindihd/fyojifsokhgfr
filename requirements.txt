@@ -1,8 +1,9 @@
 aiohttp
-aria2p==0.9.1
+aria2p
 hachoir
 Pillow
-pyrogram
+https://github.com/Mahesh0253/pyrogram/archive/asyncio.zip
 tgcrypto
-youtube_dl==2020.11.12
+youtube-dl
 hurry.filesize
+appdirs
