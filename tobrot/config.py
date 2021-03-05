@@ -4,7 +4,7 @@ from tobrot.sample_config import Config
 
 class Config(Config):
     TG_BOT_TOKEN= "1668326245:AAHgh_o36aumImuc99JsvLsDZwSUbsZcolg" #imp
-    APP_ID = "1809362" #imp
+    APP_ID =  #imp
     API_HASH = "4ca40fe445059e6db252c824e4eb2e8c" #imp
     AUTH_CHANNEL = [-1001277862770, 1196519780] #imp replace your_id with your id from telegram or delete
     INDEX_LINK = "https://autumn-feather-9a70.animese.workers.dev"
