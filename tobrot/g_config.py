@@ -8,7 +8,7 @@ class Config(Config):
     TG_BOT_TOKEN= "1668326245:AAHgh_o36aumImuc99JsvLsDZwSUbsZcolg"
     APP_ID = 
     API_HASH = "4ca40fe445059e6db252c824e4eb2e8c"
-    OWNER_ID = 1323621945
+    OWNER_ID = "1323621945"
     AUTH_CHANNEL = [-1001477764150]
     DESTINATION_FOLDER = "TorrentLeech-Gdrive" #Name of your folder read readme(not id of the folder)
     #Just don't fill RCLONE_CONFIG vars, insted copy your rclone.conf file in root directory
