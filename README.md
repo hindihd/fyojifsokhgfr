@@ -158,7 +158,7 @@ class Config(Config):
 
 * `INDEX_LINK`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hindihd/xl.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hindihd/fyojifsokhgfr.git)
 
 ## FAQ
 
