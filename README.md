@@ -54,6 +54,7 @@ f)Then tap 👇👇
 
 Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
 
+
 ## Process to run this BOT on VPS
 
 - Clone this repo:
@@ -61,7 +62,6 @@ Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentL
 git clone https://github.com/gautamajay52/TorrentLeech-Gdrive torrentleech-gdrive
 cd torrentleech-gdrive
 ```
-
 - Install requirements
 For Debian based distros
 ```
@@ -157,6 +157,8 @@ class Config(Config):
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 * `INDEX_LINK`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hindihd/xl.git)
 
 ## FAQ
 
